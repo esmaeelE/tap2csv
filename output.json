@@ -1,0 +1,26 @@
+[
+    {
+        "input_id": "1672636941x001_001101",
+        "output_id": "",
+        "input_type": "batchControlInfo",
+        "output_type": "batchControlInfo",
+        "addkey": "",
+        "source_id": "TAP3O",
+        "filename": "CDIRN11OMNGT06402 (1)",
+        "F": "releaseVersionNumber 12",
+        "B": "fileAvailableTimeStamp",
+        ".": ""
+    },
+    {
+        "input_id": "1672636941x001_001101",
+        "output_id": "",
+        "input_type": "accountingInfo",
+        "output_type": "accountingInfo",
+        "addkey": "",
+        "source_id": "TAP3O",
+        "filename": "CDIRN11OMNGT06402 (1)",
+        "B": "CurrencyConversion",
+        "F": "tapDecimalPlaces 6",
+        ".": ""
+    }
+]

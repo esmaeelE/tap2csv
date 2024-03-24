@@ -1,0 +1,55 @@
+RECORD
+#input_id 1672636941x001_001101
+#output_id 
+#input_type batchControlInfo
+#output_type batchControlInfo
+#addkey 
+#source_id TAP3O
+#filename CDIRN11OMNGT06402 (1)
+F sender IRN11
+F recipient OMNGT
+F fileSequenceNumber 06402
+B fileCreationTimeStamp
+F localTimeStamp 20210830082008
+F utcTimeOffset +0430
+.
+B transferCutOffTimeStamp
+F localTimeStamp 20210830082008
+F utcTimeOffset +0430
+.
+B fileAvailableTimeStamp
+F localTimeStamp 20210830082008
+F utcTimeOffset +0430
+.
+F specificationVersionNumber 3
+F releaseVersionNumber 12
+.
+RECORD
+#input_id 1672636941x001_001101
+#output_id 
+#input_type accountingInfo
+#output_type accountingInfo
+#addkey 
+#source_id TAP3O
+#filename CDIRN11OMNGT06402 (1)
+B taxation
+B Taxation
+F taxCode 1
+F taxType 01
+F taxRate 0900000
+F chargeType 00
+.
+.
+B discounting
+.
+F localCurrency USD
+F tapCurrency SDR
+B currencyConversionInfo
+B CurrencyConversion
+F exchangeRateCode 1
+F numberOfDecimalPlaces 5
+F exchangeRate 142019
+.
+.
+F tapDecimalPlaces 6
+.
